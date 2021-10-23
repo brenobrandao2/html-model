@@ -1,0 +1,15 @@
+* {
+    border: 1px solid red;
+}
+body {
+    justify-content: center;
+    align-items: center;
+    background-color: violet;
+}
+.main {
+    width: 90%;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
